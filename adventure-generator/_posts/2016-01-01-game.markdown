@@ -2,5 +2,5 @@
 layout: adventure
 summary: Watch the game at the bar
 season: winter,spring,summer,fall
-duration: half-day
+duration: half day
 ---

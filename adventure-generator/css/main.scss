@@ -36,3 +36,57 @@ $on-laptop:        800px;
 // }
 
 // Import partials from the `minima` theme.
+
+ul {
+   list-style: none;
+   list-style-type: none;
+   padding: 0px;
+   margin:0px;
+}
+
+label {
+      display: inline-block;
+      width: 80%;
+}
+
+li {
+   display: block;
+   width: 80%;
+   margin: 10px auto;
+   background-color: #d3d3d3;
+   text-align: left;
+}
+
+div.home {
+	 width: 30%;
+	 min-width: 200px;
+	 margin: 50px auto;
+}
+
+body {
+     font-family: Helvetica, Arial, Sans-Serif;	
+     font-size: 1.5em;     
+}
+
+div.selector {
+	 margin-top: 20px;
+	 text-align: center;
+}
+
+button {
+     display: block;
+     font-family: Helvetica, Arial, Sans-Serif;	
+     font-size: 1em;
+     background-color: blue;
+     color: white;
+     border: none;
+     margin: 50px auto;
+}
+
+input {
+      height: 2em;
+}
+
+#current-adventure {
+   text-align: center;
+}

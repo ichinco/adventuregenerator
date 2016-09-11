@@ -1,20 +1,31 @@
 ---
-layout: default
+layout: none
 ---
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+  </head>
+  <body>
+    <div class="home">
+      <div class="selector">Season<ul id="seasons"></ul></div>
+      <div class="selector">Duration<ul id="durations"></ul></div>
+      <button onclick="getRandomAdventure();">Get Adventure</button>
+      <div id="current-adventure"></div>
+    </div>
+  </body>
+  <script>
+    var adventures = [
+    {% for post in site.posts %}
+    {"summary": "{{post.summary}}",
+    "season": "{{post.season}}",
+    "duration": "{{post.duration}}" },
+    {% endfor %}
+    ];
+  </script> 
+  
+  <script src="js/generator.js"></script>
+</html>
 
-<div class="home">
-  <button onclick="getRandomAdventure();">Get Adventure</button>
-  <div id="current-adventure"></div>
-</div>
 
-<script>
-  var adventures = [
-  {% for post in site.posts %}
-  {"summary": "{{post.summary}}",
-   "season": "{{post.season}}",
-   "duration": "{{post.duration}}" },
-  {% endfor %}
-  ];
-</script> 
 
-<script src="js/generator.js"></script>
