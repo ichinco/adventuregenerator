@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: NYC
+season: winter,spring,summer,fall
+duration: weekend
+---

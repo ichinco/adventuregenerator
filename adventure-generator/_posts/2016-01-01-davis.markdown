@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Fleneur in Davis SQ
+season: winter,spring,summer,fall
+duration: half day
+---

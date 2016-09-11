@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Bantam Cider
+season: winter,spring,summer,fall
+duration: hours
+---

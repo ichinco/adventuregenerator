@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Fleneuring in boston
+season: winter,spring,summer,fall
+duration: half day
+---

@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Vermont
+season: winter,spring,summer,fall
+duration: weekend
+---

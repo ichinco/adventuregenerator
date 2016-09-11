@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Bowling
+season: winter,spring,summer,fall
+duration: hours
+---

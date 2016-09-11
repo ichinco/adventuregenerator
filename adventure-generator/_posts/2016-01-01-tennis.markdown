@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Play tennis
+season: spring,summer,fall
+duration: hours
+---

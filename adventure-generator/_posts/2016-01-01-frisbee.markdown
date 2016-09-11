@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Frisbee
+season: summer,fall
+duration: hours
+---

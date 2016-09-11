@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Go somewhere you've never been before and take a walk
+season: winter,spring,summer,fall
+duration: day
+---

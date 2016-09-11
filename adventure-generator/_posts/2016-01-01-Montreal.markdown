@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Montreal
+season: winter,spring,summer,fall
+duration: weekend
+---

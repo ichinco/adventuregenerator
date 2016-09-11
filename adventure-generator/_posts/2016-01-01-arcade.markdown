@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Arcade
+season: winter,spring,summer,fall
+duration: hours
+---

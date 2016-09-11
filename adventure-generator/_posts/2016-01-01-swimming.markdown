@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Swimming
+season: winter,spring,summer,fall
+duration: hours
+---

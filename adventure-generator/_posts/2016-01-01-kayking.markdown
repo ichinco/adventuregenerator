@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: kayaking
+season: summer,fall
+duration: half day
+---

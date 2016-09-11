@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Have a drink at the pub
+season: winter,spring,summer,fall
+duration: hours
+---

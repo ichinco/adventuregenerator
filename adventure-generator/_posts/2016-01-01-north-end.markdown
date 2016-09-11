@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: North End fleneuring
+season: winter,spring,summer,fall
+duration: hours
+---

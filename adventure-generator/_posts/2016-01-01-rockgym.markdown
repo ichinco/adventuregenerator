@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: go to the rock gym
+season: winter,spring,summer,fall
+duration: hours
+---

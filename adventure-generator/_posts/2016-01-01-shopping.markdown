@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Shopping
+season: winter,spring,summer,fall
+duration: hours
+---

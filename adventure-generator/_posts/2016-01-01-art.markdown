@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Art museum
+season: winter,spring,summer,fall
+duration: half day
+---

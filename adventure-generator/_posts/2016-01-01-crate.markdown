@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Crate / Arhaus
+season: winter,spring,summer,fall
+duration: hours
+---

@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Picnic in the park
+season: summer,fall
+duration: hours
+---

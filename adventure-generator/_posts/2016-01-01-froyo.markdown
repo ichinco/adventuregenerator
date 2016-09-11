@@ -1,0 +1,6 @@
+---
+layout: adventure
+summary: Froyo in Harvard
+season: winter,spring,summer,fall
+duration: hours
+---
